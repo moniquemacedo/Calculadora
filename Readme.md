@@ -1,4 +1,4 @@
-Calculadora desenvolvida em HTML CSS e JavaScript
+Calculadora desenvolvida em HTML CSS e JavaScript. Projeto criado para prática de Factory Functions.
 <br>
 <br><br>
 
